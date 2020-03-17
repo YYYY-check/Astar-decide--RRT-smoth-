@@ -1,0 +1,3 @@
+﻿  Astar.cpp
+c:\index\astar_test\astar_test\astar.cpp(21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Astar_test.vcxproj -> C:\index\Astar_test\x64\Debug\Astar_test.exe

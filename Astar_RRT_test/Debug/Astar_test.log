@@ -1,0 +1,4 @@
+﻿  Astar.cpp
+D:\C++\software\Astar_test_smoth\Astar_test\Astar.cpp(21,23): warning C4244:  “return”: 从“double”转换到“float”，可能丢失数据
+D:\C++\software\Astar_test_smoth\Astar_test\Astar.cpp(153,13): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+  Astar_test.vcxproj -> D:\C++\software\Astar_test_smoth\Debug\Astar_test.exe
